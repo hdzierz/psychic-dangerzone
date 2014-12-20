@@ -6,17 +6,55 @@
  
 *How, for example, would software versions and permissions in the MacOSX desktop be kept synchronised with those in powerPlant? An alternative possible solution would be for virtual machines on the developer’s (Windows) desktops to be periodically refreshed from a powerPlant server “gold standard” virtual machine image. This solution could be implemented quite easily and with minimal cost.*
 
-## Office, Lync and Provisioning
+## The **best** solution
+
+### OS X
+
+In no way is the new way of working influenced by the image or marketing of Apple products. Instead a pragmatic response to getting things done with the least effort.
+
+| Feature | Windows | Linux | OS X |
+|:--------|---------|-------|------|
+| GCC     | No (MinGW) | Yes | Yes |
+| X11     | No (NX)    | Yes | Yes |
+| Bioinformatics Software | Not 100% | Yes | Yes |
+| docker  | No (boot2docker) | Yes | boot2docker |
+| Office  | Yes     | No | Yes |
+| Lync    | Yes     | No | Yes |
+
+workarounds that have issues in brackets
+
+### Office, Lync and Provisioning
 
 * http://www.microsoft.com/nz/mac/products
 * http://www.microsoft.com/nz/mac/enterprise/lync
 * http://www.apple.com/nz/business/programs/
 
-## POSIX Terminal
+### POSIX Terminal
 
-## Longevity
+### Longevity
 
-## Comments received via email
+## Clarity of the request
+
+## Synchronicity with powerPlant
+
+**docker**
+
+## Further information
+
+### Worldwide trends
+
+[Shared](http://blog.linkedin.com/2014/12/17/the-25-hottest-skills-that-got-people-hired-in-2014/) by an ex-colleague, who appears to be flourishing in his new environment. 
+
+![25 Hottest Skills](http://blog.linkedin.com/wp-content/uploads/2014/12/The-25-Hottest-Skills-of-2014-on-LinkedIn.png) 
+
+The obvious relevance is 13, and the notable omission any Microsoft technology stack. Given the promenance of 1, 10, 13, 23 and 25 (possibly also 8, 11, 19) in our knowledge base we don't have 6 to make a sensible request that includes Windows.
+
+
+
+### Comments received verbally or via email
+
+**Microsoft bioinformatics and why open source**
+*If we'd waited around for the Microsoft solution for our bioinformatics software, we would still be waiting*
 
 **With reference to boot2docker**
 *"I tried on Win and it doesnt really work. Fact is, WINs  no go as a modern dev environment for leading technologies"*
