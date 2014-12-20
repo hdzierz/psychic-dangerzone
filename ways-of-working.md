@@ -47,7 +47,7 @@ workarounds that have issues in brackets
 
 ![25 Hottest Skills](http://blog.linkedin.com/wp-content/uploads/2014/12/The-25-Hottest-Skills-of-2014-on-LinkedIn.png) 
 
-The obvious relevance is 13, and the notable omission any Microsoft technology stack. Given the promenance of 1, 10, 13, 23 and 25 (possibly also 8, 11, 19) in our knowledge base we don't have 6 to make a sensible request that includes Windows.
+The obvious relevance is 13, and the notable omission any Microsoft technology stack. Given the promenance of 1, 10, 13, 23 and 25 (possibly also 8, 11, 19) in our knowledge base ...
 
 
 
