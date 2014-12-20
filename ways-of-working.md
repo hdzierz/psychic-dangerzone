@@ -23,11 +23,15 @@ In no way is the new way of working influenced by the image or marketing of Appl
 
 workarounds that have issues in brackets
 
-### Office, Lync and Provisioning
+#### Office, Lync and Provisioning
 
 * http://www.microsoft.com/nz/mac/products
 * http://www.microsoft.com/nz/mac/enterprise/lync
 * http://www.apple.com/nz/business/programs/
+
+### Suitability of Windows as a host OS to any other
+
+Poor
 
 ### POSIX Terminal
 
