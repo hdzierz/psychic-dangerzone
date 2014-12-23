@@ -53,7 +53,9 @@ Poor
 
 The obvious relevance is 13, and the notable omission any Microsoft technology stack. Given the promenance of 1, 10, 13, 23 and 25 (possibly also 8, 11, 19) in our knowledge base ...
 
+### Modern tooling
 
+* https://nostrongbeliefs.com/modern-tooling/ a story from nodejs dev. 
 
 ### Comments received verbally or via email
 
