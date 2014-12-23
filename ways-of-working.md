@@ -58,7 +58,7 @@ The obvious relevance is 13, and the notable omission any Microsoft technology s
 * https://nostrongbeliefs.com/modern-tooling/ a story from nodejs dev. 
 * https://github.com/blog/1840-improving-github-for-science and play http://youtu.be/iUcm5COsKJo making specific observations on the make of laptops used at the rOpenSci Hackathon. I observed at most 3 IBM laptops vs rest Apple Macbook Air/Pro
   * Etsy's data analysts useR on OS X (revenue [US$500 million in 2011](http://en.wikipedia.org/wiki/Etsy))
-  * UC Davis (Ciera Martinez)[https://github.com/iamciera]
+  * UC Davis [Ciera Martinez](https://github.com/iamciera)
   * many others
 
 ### Comments received verbally or via email
