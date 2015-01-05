@@ -91,4 +91,4 @@ The obvious relevance is 13, and the notable omission any Microsoft technology s
 * Windows 8 has a [4.3% share](http://tabtimes.com/resources/the-state-of-the-tablet-market/) of the tablet market and the economics of software and hardware accessory development leads to a comparable share of software and hardware accessories available for Windows devices and often with a premium attached. In terms of ruggedization, this can simply be achieved with [Pelican cases](http://www.pelicanprogear.com.au/products_pgs/ce2180.php) rather than the 'bespoke' Windows systems.
 * "After much research the company bought ~5 windows 8 RT tablets" ![ebridaweb.png](ebridaweb.png)
 
- *"Your critics are the ones telling you they still love you and care. Worry when you do something badly and nobody bothers to tell you."* -- Randy Pausch 
+ *"When you're screwing up and nobody says anything to you anymore, that means they've given up on you."* -- Randy Pausch
