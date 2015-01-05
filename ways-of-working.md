@@ -8,6 +8,8 @@
 
 ## The **best** solution
 
+ *"It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe."* -- Muhammad Ali
+ 
 ### OS X
 
 In no way is the new way of working influenced by the image or marketing of Apple products. Instead a pragmatic response to getting things done with the least effort.
