@@ -21,3 +21,11 @@ Microsoft now embraces an “any device” policy and is delivering keys apps li
 for Apple and (soon) Android devices, accepting the decline in the Windows client.
 ``` 
   -- [The Reg](http://www.theregister.co.uk/2014/10/24/two_years_launch_of_windows_8_surface_disaster/?page=2)
+
+```
+Apple laptops had replaced Windows laptops as the code jockey’s steed of choice,
+with the very act of programming itself having become decoupled from the client's
+operating system. It was said, and it was written, how Microsoft had lost a 
+generation of developers.
+```
+ -- [The Reg](http://www.theregister.co.uk/2014/11/27/portable_revolution_programming_in_the_post_microsoft_post_pc_era/) and [on the "lost" generation](http://www.theregister.co.uk/2008/09/26/ballmer_norway_dreamspark)
