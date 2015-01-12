@@ -22,6 +22,8 @@ In no way is the new way of working influenced by the image or marketing of Appl
 | docker  | No (boot2docker) | Yes | boot2docker |
 | Office  | Yes     | No | Yes |
 | Lync    | Yes     | No | Yes |
+| iOS dev env | No | No | Yes |
+| Android dev env | Yes | Yes | Yes |
 
 workarounds that have issues in brackets
 
