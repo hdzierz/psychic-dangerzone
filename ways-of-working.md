@@ -9,8 +9,27 @@
 ## The **best** solution
 
  *"It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe."* -- Muhammad Ali
- 
-### OS X
+
+One has to emphasise that developing analytical software in the Bioinformatics space is fundamentally different from software development processes in the business world. We are not software developers! We have to consider less skilled developers and much more diversity in the 
+tools we use (Perl, Python, R, Java, Web dev, C, C++, etc.). All of these tools are Unix based and run on Windows machines very inefficiently. 
+
+The advantages of MacOSX are thus:
+
+* MacOSX provides an excellent Desktop system for the less skilled developer compared to Linux (particularly as a VM)  which tends to be nerdy. 
+* The great part of the bioinformatics industry uses MacOSX machines. Compability with the industry is adamant.
+* Mac OSX provides Microsoft Office products including Lync
+* Mac OSX also provides:
+*   a POSIX terminal
+*   Longevity
+
+
+#### Office, Lync and Provisioning
+
+* http://www.microsoft.com/nz/mac/products
+* http://www.microsoft.com/nz/mac/enterprise/lync
+* http://www.apple.com/nz/business/programs/
+
+## Clarity of the request
 
 In no way is the new way of working influenced by the image or marketing of Apple products. Instead a pragmatic response to getting things done with the least effort.
 
@@ -27,35 +46,20 @@ In no way is the new way of working influenced by the image or marketing of Appl
 
 workarounds that have issues in brackets
 
-#### Office, Lync and Provisioning
-
-* http://www.microsoft.com/nz/mac/products
-* http://www.microsoft.com/nz/mac/enterprise/lync
-* http://www.apple.com/nz/business/programs/
-
-### Suitability of Windows as a host OS to any other
-
-Poor
-
-### POSIX Terminal
-
-### Longevity
-
-## Clarity of the request
-
 ## Synchronicity with powerPlant
 
-**docker**
+First of all the gold standard VM provided is merely bronze. The reason is that IKS uses CentOS as a gold standard. CentOS is EXTREMELY conservative 
+and causes trouble in an innovative and volatile environment. To give an example: There is a Linux distribution out there (Biolinux) 
+that has almost ALL software preinstalled that currently runs on powerPlant. However,  it is a Ubuntu and thus not gold standard as per IKS. 
+It would have saved 10s of thousand $$$ if we could have used that as a gold standard. Instead we has to install software from scratch and 
+maintain it which causes that iPLant is fairly out of date already.
+
+Docker is easy installed on Mac OSX machines (in the contrary to windows) and will help us keeping in sync with powerPlant. However, 
+even if we should need a CentOS VM "gold" standard on our Desktops for development purposes this can be easily done on a Mac OSX machine as well. 
+Further, we would even prefer doing this on MacOSX as virtualisation is much easier on Unix based machines by using tools like Vagrant.
+
 
 ## Further information
-
-### Worldwide trends
-
-[Shared](http://blog.linkedin.com/2014/12/17/the-25-hottest-skills-that-got-people-hired-in-2014/) by an ex-colleague, who appears to be flourishing in his new environment. 
-
-![25 Hottest Skills](http://blog.linkedin.com/wp-content/uploads/2014/12/The-25-Hottest-Skills-of-2014-on-LinkedIn.png) 
-
-The obvious relevance is 13, and the notable omission any Microsoft technology stack. Given the promenance of 1, 10, 13, 23 and 25 (possibly also 8, 11, 19) in our knowledge base ...
 
 ### Modern tooling
 
@@ -93,4 +97,4 @@ The obvious relevance is 13, and the notable omission any Microsoft technology s
 * Windows 8 has a [4.3% share](http://tabtimes.com/resources/the-state-of-the-tablet-market/) of the tablet market and the economics of software and hardware accessory development leads to a comparable share of software and hardware accessories available for Windows devices and often with a premium attached. In terms of ruggedization, this can simply be achieved with [Pelican cases](http://www.pelicanprogear.com.au/products_pgs/ce2180.php) rather than the 'bespoke' Windows systems.
 * "After much research the company bought ~5 windows 8 RT tablets" ![ebridaweb.png](ebridaweb.png)
 
- *"When you're screwing up and nobody says anything to you anymore, that means they've given up on you."* -- Randy Pausch
+ *"When you're screwing up and nobody says anything to you anymore, that means they've given up on you."* -- Randy Pausch 
